@@ -1,10 +1,5 @@
 <div align="center">
 
-<!-- 상단 이미지 -->
-<img src="https://github.com/user-attachments/assets/009d4969-c5b5-4e1b-a5e1-2cfe322e50d0" width="30%" />
-
-<br/>
-
 # 👋 안녕하세요, 개발자 강희연입니다!
 
 <br/>
