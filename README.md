@@ -1,7 +1,4 @@
-<div align="center">
-
-<!-- 타이핑 애니메이션 헤더 -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+%EA%B0%95%ED%9D%AC%EC%97%B0!;Front-end+%2F+Back-end+Developer;Welcome+to+my+GitHub!" alt="Typing SVG" />
+<div align="center"> <!-- 타이핑 애니메이션 헤더 --> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=FF9A00&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+%EA%B0%95%ED%9D%AC%EC%97%B0!;Front-end+%2F+Back-end+Developer;Welcome+to+my+GitHub!" alt="Typing SVG" /> 
 
 <br/>
 
